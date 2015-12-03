@@ -1,4 +1,12 @@
-a {
-color:yellow
-background-color:red
+.wrap {
+margin:auto;
+width=600px;
+}
+body{
+  background-color:#e3e3e3;
+  font-family: sans-serif;
+}
+blockquote{
+  border: 1px solidwhite;
+  text-align: center;
 }

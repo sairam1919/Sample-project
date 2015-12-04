@@ -1,0 +1,26 @@
+
+.wrap{
+  min-width:600px;
+width=80%;
+background: yellow;
+margin:auto;
+overflow:hidden;
+}
+.connect,aside{
+  height:600px;
+}
+.connect{
+  background: red;
+  float: right;
+  width:70%;
+}
+aside{
+  background: blue;
+  float:right;
+  width:30%;
+}
+aside ul
+{
+  list-style:none;
+  padding-left:0;
+}
